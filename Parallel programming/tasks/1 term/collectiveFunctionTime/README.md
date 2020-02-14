@@ -8,7 +8,7 @@
     if you want to clear all created files:
         -> make clean
 
-#### Task was to print collective function time such as MPI_Bcast, MPI_Reduce etc, it is research task. You can find my realisations of collective functions in the folder [myCollectiveFunctions]()
+#### Task was to print collective function time such as MPI_Bcast, MPI_Reduce etc, it is research task. You can find my realisations of collective functions in the folder [myCollectiveFunctions](https://github.com/Ilyabasharov/mipt/tree/master/Parallel%20programming/tasks/1%20term/collectiveFunctionTime/myCollectiveFunctions)
 
 #### Input format:
 
