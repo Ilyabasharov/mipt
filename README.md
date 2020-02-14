@@ -3,7 +3,7 @@
 
 
 The repository for 
-for everything that happens in MIPT Courses [link](https://data.mail.ru/)
+for everything that happens in MIPT Courses [DREC MIPT](https://mipt.ru/education/departments/frkt/)
 
 ### Available courses
 - [x] [Parallel programming](https://github.com/Ilyabasharov/mipt/tree/master/Parallel%20programming)
