@@ -7,3 +7,4 @@ for everything that happens in MIPT Courses [DREC MIPT](https://mipt.ru/educatio
 
 ### Available courses
 - [x] [Parallel programming](https://github.com/Ilyabasharov/mipt/tree/master/Parallel%20programming)
+- [x] [Machine Learning](https://github.com/Ilyabasharov/mipt/tree/master/Machine%20Learning)
