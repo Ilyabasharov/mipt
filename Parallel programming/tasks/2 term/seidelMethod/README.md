@@ -17,5 +17,5 @@
                              
 #### Output format:
 
-    -> Time haracteristics and result matrix.
+    -> Time characteristics and result matrix.
     
